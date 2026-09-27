@@ -1,5 +1,5 @@
-# Minecraft Skin Maker
-![docs/title.png]
+![Example preview: front, 3/4 and back views of a generated skin](docs/title.png)
+
 
 **Turn a photo or a description into a Minecraft skin, then see it on the 3D model before you upload it.**
 
