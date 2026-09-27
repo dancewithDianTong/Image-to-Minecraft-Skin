@@ -1,3 +1,4 @@
+# Minecraft Skin Maker
 ![docs/title.png]
 
 **Turn a photo or a description into a Minecraft skin, then see it on the 3D model before you upload it.**
