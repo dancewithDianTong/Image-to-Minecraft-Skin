@@ -4,7 +4,7 @@
 
 Minecraft Skin Maker is a skill for [Claude](https://claude.ai). Give Claude a selfie, a picture of your character, or a few sentences like "a sleepy wizard with a green hoodie." It makes a skin file you can use in the game, plus preview images showing the character from the front, at an angle, and from behind.
 
-![Example preview: front, 3/4 and back views of a generated skin](docs/preview.png)
+![Example preview: front, 3/4 and back views of a generated skin](docs/preview.jpg)
 
 ---
 
